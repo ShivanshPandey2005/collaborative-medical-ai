@@ -248,3 +248,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [Streamlit](https://streamlit.io/) for the web application framework.
 - [Loguru](https://github.com/Delgan/loguru) for the logging library.
 - Inspired by collaborative multi-agent system architectures and prompt engineering techniques like Chain-of-Thought (CoT) and ReAct.
+- Maintained by Shivansh Pandey
+
